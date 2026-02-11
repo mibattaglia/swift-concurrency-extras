@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name           = 'ConcurrencyExtras'
-  s.version        = '1.3.2'
+  s.version        = '1.3.3'
   s.summary        = 'A few essential extensions to Swift concurrency.'
   s.description    = 'Utilities and helpers for Swift concurrency.'
   s.author         = 'Point-Free'
